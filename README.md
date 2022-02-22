@@ -1,2 +1,2 @@
 # kickstarter-analysis
-Analysis on kickstarter data 
+Analysis on kickstarter using outcomes data based on their launch dataes and funding goals.
